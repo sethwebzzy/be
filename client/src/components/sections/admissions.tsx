@@ -65,7 +65,7 @@ export default function Admissions() {
                   <div className="bg-white bg-opacity-20 rounded-lg p-4">
                     <div className="flex justify-between items-center mb-2">
                       <span>Paybill Number:</span>
-                      <span className="font-semibold">544069</span>
+                      <span className="font-semibold">544600</span>
                     </div>
                     <div className="flex justify-between items-center">
                       <span>Account Number:</span>

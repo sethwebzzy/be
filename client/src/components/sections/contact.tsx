@@ -24,14 +24,14 @@ export default function Contact() {
                   <Phone className="text-college-green h-6 w-6 mr-4" />
                   <div>
                     <h4 className="font-semibold text-college-dark">Phone Numbers</h4>
-                    <p className="text-college-gray">0727 708 240 / 0732 522 089 / 0117 403 514</p>
+                    <p className="text-college-gray">0727 708 240 / 0732 522 089</p>
                   </div>
                 </div>
                 <div className="flex items-center">
                   <Mail className="text-college-green h-6 w-6 mr-4" />
                   <div>
                     <h4 className="font-semibold text-college-dark">Email</h4>
-                    <p className="text-college-gray">leadershipjoycepcentre@gmail.com</p>
+                    <p className="text-college-gray">leadershipjoycepcentre8@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center">

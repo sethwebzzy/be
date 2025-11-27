@@ -35,7 +35,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="text-gray-300">0727 708 240</li>
               <li className="text-gray-300">0732 522 089</li>
-              <li className="text-gray-300">leadershipjoycepcentre@gmail.com</li>
+              <li className="text-gray-300">leadershipjoycepcentre8@gmail.com</li>
               <li className="text-gray-300">Kitengela, Kenya</li>
             </ul>
           </div>
